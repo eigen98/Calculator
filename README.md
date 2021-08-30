@@ -19,3 +19,5 @@
 
 ###kotlin 문법
 -> 확장함수 사용
+![KakaoTalk_20210831_001309027_01](https://user-images.githubusercontent.com/68258365/131363842-cf754da6-6df2-4cdb-a16a-1dfdad60e6f6.jpg)
+![KakaoTalk_20210831_001309027](https://user-images.githubusercontent.com/68258365/131363864-a17d142d-2324-4192-97e5-229af83c745f.jpg)
